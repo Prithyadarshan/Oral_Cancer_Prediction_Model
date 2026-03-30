@@ -1,1 +1,0 @@
-# Oral_Cancer_Prediction_Model
